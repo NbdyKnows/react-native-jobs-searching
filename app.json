@@ -1,0 +1,22 @@
+{
+  "expo": {
+    "scheme": "acme",
+    "web": {
+      "bundler": "metro"
+    },
+    "plugins": [
+      "expo-router"
+    ],
+    "name": "react-native-jobs-searching",
+    "slug": "react-native-jobs-searching",
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "8575d4a7-7453-4fc5-9ca4-de1bdb7329db"
+      }
+    },
+    "owner": "nbdyknows"
+  }
+}
